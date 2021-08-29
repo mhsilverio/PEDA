@@ -23,7 +23,7 @@ int main() {
         }
     }
     if (cont == 0)
-        cout << "Expressao correta" << endl;
+        cout << "Expressao correta em relacao ao num de parenteses" << endl;
     else    
-        cout << "Expressao incorreta" << endl;
+        cout << "Expressao incorreta em relacao ao num de parenteses" << endl;
 }
