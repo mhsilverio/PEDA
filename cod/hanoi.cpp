@@ -24,5 +24,4 @@ int main(){
     cin >> num;
     cout << "\nRESULTADO DOS MOVIMENTOS: " << endl;
     hanoi(num,'A','B','C');
-
 }
