@@ -1,4 +1,4 @@
 # PEDA
 
-Repositório criado para o TDE1
+Repositório criado para a matéria de PEDA (6º semestre/2021)
  
